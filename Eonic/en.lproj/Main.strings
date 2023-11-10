@@ -1,0 +1,171 @@
+
+/* Class = "UISearchBar"; placeholder = "Search for a place or address"; ObjectID = "2A6-55-zQ7"; */
+"2A6-55-zQ7.placeholder" = "Search for a place or address";
+
+/* Class = "UISearchBar"; 2A6-55-zQ7.scopeButtonTitles[0] = "Title"; ObjectID = "2A6-55-zQ7"; */
+"2A6-55-zQ7.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; 2A6-55-zQ7.scopeButtonTitles[1] = "Title"; ObjectID = "2A6-55-zQ7"; */
+"2A6-55-zQ7.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UILabel"; text = "22kW • 160V"; ObjectID = "2Lb-7B-NEh"; */
+"2Lb-7B-NEh.text" = "22kW • 160V";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "4vU-4e-hv1"; */
+"4vU-4e-hv1.text" = "Address";
+
+/* Class = "UILabel"; text = "Italy"; ObjectID = "BeX-AB-wgk"; */
+"BeX-AB-wgk.text" = "Italy";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "C2O-AB-l2h"; */
+"C2O-AB-l2h.text" = "Label";
+
+/* Class = "UILabel"; text = "You can set multiple choices"; ObjectID = "CKn-xM-sMj"; */
+"CKn-xM-sMj.text" = "You can set multiple choices";
+
+/* Class = "UILabel"; text = "22kW • 160V"; ObjectID = "Cft-XP-AuC"; */
+"Cft-XP-AuC.text" = "22kW • 160V";
+
+/* Class = "UILabel"; text = "Usage and Costs"; ObjectID = "Esj-BE-oQD"; */
+"Esj-BE-oQD.text" = "Usage and Costs";
+
+/* Class = "UILabel"; text = "Tesla"; ObjectID = "GJc-CY-F6I"; */
+"GJc-CY-F6I.text" = "Tesla";
+
+/* Class = "UILabel"; text = "19.2kW • 240V"; ObjectID = "Ga1-no-hfI"; */
+"Ga1-no-hfI.text" = "19.2kW • 240V";
+
+/* Class = "UILabel"; text = "22kW • 160V"; ObjectID = "H0a-eC-I3x"; */
+"H0a-eC-I3x.text" = "22kW • 160V";
+
+/* Class = "UILabel"; text = "Via Sorrento 205"; ObjectID = "Hqv-Jp-aES"; */
+"Hqv-Jp-aES.text" = "Via Sorrento 205";
+
+/* Class = "UILabel"; text = "All other plugs"; ObjectID = "KgV-u1-JLE"; */
+"KgV-u1-JLE.text" = "All other plugs";
+
+/* Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "L3X-0l-HZB"; */
+"L3X-0l-HZB.text" = "AC (Three Phase)";
+
+/* Class = "UILabel"; text = "Share"; ObjectID = "LKb-F9-GMH"; */
+"LKb-F9-GMH.text" = "Share";
+
+/* Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "ORK-Qb-N5p"; */
+"ORK-Qb-N5p.text" = "AC (Three Phase)";
+
+/* Class = "UILabel"; text = "Private/Public • Operational/Closed • Free/0,35 per kW"; ObjectID = "PEr-1H-Lfa"; */
+"PEr-1H-Lfa.text" = "Private/Public • Operational/Closed • Free/0,35 per kW";
+
+/* Class = "UILabel"; text = "7km • Via Sorrento "; ObjectID = "PUk-yN-vuz"; */
+"PUk-yN-vuz.text" = "7km • Via Sorrento ";
+
+/* Class = "UILabel"; text = "22kW • 160V"; ObjectID = "PYx-lY-LmN"; */
+"PYx-lY-LmN.text" = "22kW • 160V";
+
+/* Class = "UILabel"; text = "22kW • 160V"; ObjectID = "PeW-Fn-BfV"; */
+"PeW-Fn-BfV.text" = "22kW • 160V";
+
+/* Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "QE8-nh-9pO"; */
+"QE8-nh-9pO.text" = "AC (Three Phase)";
+
+/* Class = "UILabel"; text = "Call"; ObjectID = "QuD-w2-dah"; */
+"QuD-w2-dah.text" = "Call";
+
+/* Class = "UILabel"; text = "CEE (All Types)"; ObjectID = "RqF-1a-G9v"; */
+"RqF-1a-G9v.text" = "CEE (All Types)";
+
+/* Class = "UILabel"; text = "CHAdeMO"; ObjectID = "STd-tl-3D2"; */
+"STd-tl-3D2.text" = "CHAdeMO";
+
+/* Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "TA8-jU-AQN"; */
+"TA8-jU-AQN.text" = "AC (Three Phase)";
+
+/* Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "UZd-vS-ahc"; */
+"UZd-vS-ahc.text" = "AC (Three Phase)";
+
+/* Class = "UILabel"; text = "1.92kW • 120V"; ObjectID = "Vu1-CO-3uW"; */
+"Vu1-CO-3uW.text" = "1.92kW • 120V";
+
+/* Class = "UILabel"; text = "Level 3"; ObjectID = "WGF-v6-AQh"; */
+"WGF-v6-AQh.text" = "Level 3";
+
+/* Class = "UILabel"; text = "22kW • 160V"; ObjectID = "XME-yi-iaD"; */
+"XME-yi-iaD.text" = "22kW • 160V";
+
+/* Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "Y2h-hd-ZWJ"; */
+"Y2h-hd-ZWJ.text" = "AC (Three Phase)";
+
+/* Class = "UILabel"; text = "Save and Search"; ObjectID = "YSl-R4-HSC"; */
+"YSl-R4-HSC.text" = "Save and Search";
+
+/* Class = "UILabel"; text = "Plug types"; ObjectID = "ZCi-eo-baO"; */
+"ZCi-eo-baO.text" = "Plug types";
+
+/* Class = "UILabel"; text = "Three Phase EU"; ObjectID = "Zs4-Lh-uh2"; */
+"Zs4-Lh-uh2.text" = "Three Phase EU";
+
+/* Class = "UILabel"; text = "Choose your Charge Types Levels"; ObjectID = "bEP-hV-EOD"; */
+"bEP-hV-EOD.text" = "Choose your Charge Types Levels";
+
+/* Class = "UILabel"; text = "Nema (All Types)"; ObjectID = "boM-dl-xuO"; */
+"boM-dl-xuO.text" = "Nema (All Types)";
+
+/* Class = "UILabel"; text = "Filters"; ObjectID = "ded-kc-060"; */
+"ded-kc-060.text" = "Filters";
+
+/* Class = "UILabel"; text = "Set your preferences to optimize the experience"; ObjectID = "ebY-zo-Th3"; */
+"ebY-zo-Th3.text" = "Set your preferences to optimize the experience";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "etT-82-YF4"; */
+"etT-82-YF4.text" = "Label";
+
+/* Class = "UILabel"; text = "Choose your Plugs"; ObjectID = "fk7-3I-Y3R"; */
+"fk7-3I-Y3R.text" = "Choose your Plugs";
+
+/* Class = "UILabel"; text = "240kW • 480V"; ObjectID = "gBy-ji-LmJ"; */
+"gBy-ji-LmJ.text" = "240kW • 480V";
+
+/* Class = "UILabel"; text = "15km • Via Amerigo Vespucci • San Giovanni"; ObjectID = "h2j-Qi-8hP"; */
+"h2j-Qi-8hP.text" = "15km • Via Amerigo Vespucci • San Giovanni";
+
+/* Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "irA-P4-dAe"; */
+"irA-P4-dAe.text" = "AC (Three Phase)";
+
+/* Class = "UILabel"; text = "22kW • 160V"; ObjectID = "jdh-UZ-Nm0"; */
+"jdh-UZ-Nm0.text" = "22kW • 160V";
+
+/* Class = "UILabel"; text = "Enel (Italy)"; ObjectID = "lYL-sX-nlx"; */
+"lYL-sX-nlx.text" = "Enel (Italy)";
+
+/* Class = "UILabel"; text = "80144 Naples"; ObjectID = "nDv-Xd-9DR"; */
+"nDv-Xd-9DR.text" = "80144 Naples";
+
+/* Class = "UILabel"; text = "Type 2"; ObjectID = "ngI-Wl-H28"; */
+"ngI-Wl-H28.text" = "Type 2";
+
+/* Class = "UILabel"; text = "CCS"; ObjectID = "pLI-pi-6XA"; */
+"pLI-pi-6XA.text" = "CCS";
+
+/* Class = "UILabel"; text = "Type 1"; ObjectID = "qTa-un-YuS"; */
+"qTa-un-YuS.text" = "Type 1";
+
+/* Class = "UILabel"; text = "26mins • Public • Free"; ObjectID = "rkN-bd-Klw"; */
+"rkN-bd-Klw.text" = "26mins • Public • Free";
+
+/* Class = "UILabel"; text = "Level 2"; ObjectID = "sJN-bJ-K8l"; */
+"sJN-bJ-K8l.text" = "Level 2";
+
+/* Class = "UILabel"; text = "Level 1"; ObjectID = "tjv-Nq-3VO"; */
+"tjv-Nq-3VO.text" = "Level 1";
+
+/* Class = "UILabel"; text = "Private charging stations"; ObjectID = "tkN-s0-ozq"; */
+"tkN-s0-ozq.text" = "Private charging stations";
+
+/* Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "tqV-4N-TKw"; */
+"tqV-4N-TKw.text" = "AC (Three Phase)";
+
+/* Class = "UILabel"; text = "22kW • 160V"; ObjectID = "wgG-zN-3ze"; */
+"wgG-zN-3ze.text" = "22kW • 160V";
+
+/* Class = "UILabel"; text = "Free charging station"; ObjectID = "yCt-E7-BEb"; */
+"yCt-E7-BEb.text" = "Free charging station";

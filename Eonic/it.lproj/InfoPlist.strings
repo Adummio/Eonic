@@ -1,0 +1,12 @@
+/* Bundle name */
+"CFBundleName" = "Eonic";
+
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Permetti all'app di accedere";
+
+/* Privacy - Location Always Usage Description */
+"NSLocationAlwaysUsageDescription" = "Permetti all'app di accedere";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Permetti all'app di accedere";
+

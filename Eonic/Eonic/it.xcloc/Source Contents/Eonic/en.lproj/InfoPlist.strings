@@ -1,0 +1,8 @@
+/* Bundle name */
+"CFBundleName" = "Eonic";
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "We use position to show the nearest charger to you";
+/* Privacy - Location Always Usage Description */
+"NSLocationAlwaysUsageDescription" = "We use position to show the nearest charger to you";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "We use position to show the nearest charger to you";

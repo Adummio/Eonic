@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Eonic/Base.lproj/Intents.intentdefinition" source-language="en" target-language="it" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="2Y0cLj" xml:space="preserve">
+        <source>Search for nearest operator's poi</source>
+        <target>Search for nearest operator's poi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="9UBnX8" xml:space="preserve">
+        <source>Errore</source>
+        <target>Errore</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CErtjU" xml:space="preserve">
+        <source>Operatoreprova</source>
+        <target>Operatoreprova</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NJLPpl" xml:space="preserve">
+        <source>Result</source>
+        <target>Result</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SSXqEl" xml:space="preserve">
+        <source>Search Poi</source>
+        <target>Search Poi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="UMpBEO" xml:space="preserve">
+        <source>prova ${result}</source>
+        <target>prova ${result}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="XgQJGa" xml:space="preserve">
+        <source>Find a ${operatoreprova}charge point</source>
+        <target>Find a ${operatoreprova}charge point</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lwWUcf" xml:space="preserve">
+        <source>aaa</source>
+        <target>aaa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="z5wRH2" xml:space="preserve">
+        <source>Find a ${operatoreprova}charge point</source>
+        <target>Find a ${operatoreprova}charge point</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Eonic/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="it" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="3ZB-bk-ydk.text" xml:space="preserve">
+        <source>Welcome from DonKeys Developer Team</source>
+        <target>Welcome from
+DonKeys Developer Team</target>
+        <note>Class = "UILabel"; text = "Welcome from DonKeys Developer Team"; ObjectID = "3ZB-bk-ydk";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Eonic/Base.lproj/Main.storyboard" source-language="en" target-language="it" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="1C8-Tx-lji.text" xml:space="preserve">
+        <source>x2</source>
+        <target>x2</target>
+        <note>Class = "UILabel"; text = "x2"; ObjectID = "1C8-Tx-lji";</note>
+      </trans-unit>
+      <trans-unit id="2A6-55-zQ7.placeholder" xml:space="preserve">
+        <source>Search for a place or address</source>
+        <target>Cerca un luogo o un indirizzo</target>
+        <note>Class = "UISearchBar"; placeholder = "Search for a place or address"; ObjectID = "2A6-55-zQ7";</note>
+      </trans-unit>
+      <trans-unit id="2A6-55-zQ7.scopeButtonTitles[0]" xml:space="preserve">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UISearchBar"; 2A6-55-zQ7.scopeButtonTitles[0] = "Title"; ObjectID = "2A6-55-zQ7";</note>
+      </trans-unit>
+      <trans-unit id="2A6-55-zQ7.scopeButtonTitles[1]" xml:space="preserve">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UISearchBar"; 2A6-55-zQ7.scopeButtonTitles[1] = "Title"; ObjectID = "2A6-55-zQ7";</note>
+      </trans-unit>
+      <trans-unit id="2Lb-7B-NEh.text" xml:space="preserve">
+        <source>22kW • 160V</source>
+        <target>22kW • 160V</target>
+        <note>Class = "UILabel"; text = "22kW • 160V"; ObjectID = "2Lb-7B-NEh";</note>
+      </trans-unit>
+      <trans-unit id="4vU-4e-hv1.text" xml:space="preserve">
+        <source>Address</source>
+        <target>Indirizzo</target>
+        <note>Class = "UILabel"; text = "Address"; ObjectID = "4vU-4e-hv1";</note>
+      </trans-unit>
+      <trans-unit id="6RW-yn-ryB.text" xml:space="preserve">
+        <source>Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</source>
+        <note>Class = "UILabel"; text = "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"; ObjectID = "6RW-yn-ryB";</note>
+      </trans-unit>
+      <trans-unit id="8j6-eh-L4I.text" xml:space="preserve">
+        <source>x2</source>
+        <target>x2</target>
+        <note>Class = "UILabel"; text = "x2"; ObjectID = "8j6-eh-L4I";</note>
+      </trans-unit>
+      <trans-unit id="BQo-am-5gY.text" xml:space="preserve">
+        <source>x2</source>
+        <target>x2</target>
+        <note>Class = "UILabel"; text = "x2"; ObjectID = "BQo-am-5gY";</note>
+      </trans-unit>
+      <trans-unit id="BeX-AB-wgk.text" xml:space="preserve">
+        <source>Italy</source>
+        <target>Italy</target>
+        <note>Class = "UILabel"; text = "Italy"; ObjectID = "BeX-AB-wgk";</note>
+      </trans-unit>
+      <trans-unit id="Bzy-8I-2kc.text" xml:space="preserve">
+        <source>Open Charge Map Contributors</source>
+        <note>Class = "UILabel"; text = "Open Charge Map Contributors"; ObjectID = "Bzy-8I-2kc";</note>
+      </trans-unit>
+      <trans-unit id="C2O-AB-l2h.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "C2O-AB-l2h";</note>
+      </trans-unit>
+      <trans-unit id="CKn-xM-sMj.text" xml:space="preserve">
+        <source>You can set multiple choices</source>
+        <target>Puoi selezionare più elementi</target>
+        <note>Class = "UILabel"; text = "You can set multiple choices"; ObjectID = "CKn-xM-sMj";</note>
+      </trans-unit>
+      <trans-unit id="CYX-AO-GUU.text" xml:space="preserve">
+        <source>x2</source>
+        <target>x2</target>
+        <note>Class = "UILabel"; text = "x2"; ObjectID = "CYX-AO-GUU";</note>
+      </trans-unit>
+      <trans-unit id="Cft-XP-AuC.text" xml:space="preserve">
+        <source>22kW • 160V</source>
+        <target>22kW • 160V</target>
+        <note>Class = "UILabel"; text = "22kW • 160V"; ObjectID = "Cft-XP-AuC";</note>
+      </trans-unit>
+      <trans-unit id="Esj-BE-oQD.text" xml:space="preserve">
+        <source>Usage and Costs</source>
+        <target>Uso e Costi</target>
+        <note>Class = "UILabel"; text = "Usage and Costs"; ObjectID = "Esj-BE-oQD";</note>
+      </trans-unit>
+      <trans-unit id="GJc-CY-F6I.text" xml:space="preserve">
+        <source>Tesla</source>
+        <target>Tesla</target>
+        <note>Class = "UILabel"; text = "Tesla"; ObjectID = "GJc-CY-F6I";</note>
+      </trans-unit>
+      <trans-unit id="Ga1-no-hfI.text" xml:space="preserve">
+        <source>19.2kW • 240V</source>
+        <target>19.2kW • 240V</target>
+        <note>Class = "UILabel"; text = "19.2kW • 240V"; ObjectID = "Ga1-no-hfI";</note>
+      </trans-unit>
+      <trans-unit id="H0a-eC-I3x.text" xml:space="preserve">
+        <source>22kW • 160V</source>
+        <target>22kW • 160V</target>
+        <note>Class = "UILabel"; text = "22kW • 160V"; ObjectID = "H0a-eC-I3x";</note>
+      </trans-unit>
+      <trans-unit id="Hqv-Jp-aES.text" xml:space="preserve">
+        <source>Via Sorrento 205</source>
+        <target>Via Sorrento 205</target>
+        <note>Class = "UILabel"; text = "Via Sorrento 205"; ObjectID = "Hqv-Jp-aES";</note>
+      </trans-unit>
+      <trans-unit id="KgV-u1-JLE.text" xml:space="preserve">
+        <source>All other plugs</source>
+        <target>Tutti gli altri plug</target>
+        <note>Class = "UILabel"; text = "All other plugs"; ObjectID = "KgV-u1-JLE";</note>
+      </trans-unit>
+      <trans-unit id="L3X-0l-HZB.text" xml:space="preserve">
+        <source>AC (Three Phase)</source>
+        <target>AC (Three Phase)</target>
+        <note>Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "L3X-0l-HZB";</note>
+      </trans-unit>
+      <trans-unit id="LKb-F9-GMH.text" xml:space="preserve">
+        <source>Share</source>
+        <target>Condividi</target>
+        <note>Class = "UILabel"; text = "Share"; ObjectID = "LKb-F9-GMH";</note>
+      </trans-unit>
+      <trans-unit id="Nyt-A3-eHF.text" xml:space="preserve">
+        <source>http://openchargemap.org</source>
+        <note>Class = "UILabel"; text = "http://openchargemap.org"; ObjectID = "Nyt-A3-eHF";</note>
+      </trans-unit>
+      <trans-unit id="ORK-Qb-N5p.text" xml:space="preserve">
+        <source>AC (Three Phase)</source>
+        <target>AC (Three Phase)</target>
+        <note>Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "ORK-Qb-N5p";</note>
+      </trans-unit>
+      <trans-unit id="PEr-1H-Lfa.text" xml:space="preserve">
+        <source>Private/Public • Operational/Closed • Free/0,35 per kW</source>
+        <target>Private/Public • Operational/Closed • Free/0,35 per kW</target>
+        <note>Class = "UILabel"; text = "Private/Public • Operational/Closed • Free/0,35 per kW"; ObjectID = "PEr-1H-Lfa";</note>
+      </trans-unit>
+      <trans-unit id="PUk-yN-vuz.text" xml:space="preserve">
+        <source>7km • Via Sorrento </source>
+        <target>7km • Via Sorrento </target>
+        <note>Class = "UILabel"; text = "7km • Via Sorrento "; ObjectID = "PUk-yN-vuz";</note>
+      </trans-unit>
+      <trans-unit id="PYx-lY-LmN.text" xml:space="preserve">
+        <source>22kW • 160V</source>
+        <target>22kW • 160V</target>
+        <note>Class = "UILabel"; text = "22kW • 160V"; ObjectID = "PYx-lY-LmN";</note>
+      </trans-unit>
+      <trans-unit id="PeW-Fn-BfV.text" xml:space="preserve">
+        <source>22kW • 160V</source>
+        <target>22kW • 160V</target>
+        <note>Class = "UILabel"; text = "22kW • 160V"; ObjectID = "PeW-Fn-BfV";</note>
+      </trans-unit>
+      <trans-unit id="QE8-nh-9pO.text" xml:space="preserve">
+        <source>AC (Three Phase)</source>
+        <target>AC (Three Phase)</target>
+        <note>Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "QE8-nh-9pO";</note>
+      </trans-unit>
+      <trans-unit id="QPo-ah-Zdt.text" xml:space="preserve">
+        <source>Data provider</source>
+        <note>Class = "UILabel"; text = "Data provider"; ObjectID = "QPo-ah-Zdt";</note>
+      </trans-unit>
+      <trans-unit id="QuD-w2-dah.text" xml:space="preserve">
+        <source>Call</source>
+        <target>Chiama</target>
+        <note>Class = "UILabel"; text = "Call"; ObjectID = "QuD-w2-dah";</note>
+      </trans-unit>
+      <trans-unit id="RqF-1a-G9v.text" xml:space="preserve">
+        <source>CEE (All Types)</source>
+        <target>CEE (Tutti)</target>
+        <note>Class = "UILabel"; text = "CEE (All Types)"; ObjectID = "RqF-1a-G9v";</note>
+      </trans-unit>
+      <trans-unit id="STd-tl-3D2.text" xml:space="preserve">
+        <source>CHAdeMO</source>
+        <target>CHAdeMO</target>
+        <note>Class = "UILabel"; text = "CHAdeMO"; ObjectID = "STd-tl-3D2";</note>
+      </trans-unit>
+      <trans-unit id="TA8-jU-AQN.text" xml:space="preserve">
+        <source>AC (Three Phase)</source>
+        <target>AC (Three Phase)</target>
+        <note>Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "TA8-jU-AQN";</note>
+      </trans-unit>
+      <trans-unit id="UZd-vS-ahc.text" xml:space="preserve">
+        <source>AC (Three Phase)</source>
+        <target>AC (Three Phase)</target>
+        <note>Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "UZd-vS-ahc";</note>
+      </trans-unit>
+      <trans-unit id="UfY-km-EA7.text" xml:space="preserve">
+        <source>x2</source>
+        <target>x2</target>
+        <note>Class = "UILabel"; text = "x2"; ObjectID = "UfY-km-EA7";</note>
+      </trans-unit>
+      <trans-unit id="Vu1-CO-3uW.text" xml:space="preserve">
+        <source>1.92kW • 120V</source>
+        <target>1.92kW • 120V</target>
+        <note>Class = "UILabel"; text = "1.92kW • 120V"; ObjectID = "Vu1-CO-3uW";</note>
+      </trans-unit>
+      <trans-unit id="WGF-v6-AQh.text" xml:space="preserve">
+        <source>Level 3</source>
+        <target>Livello 3</target>
+        <note>Class = "UILabel"; text = "Level 3"; ObjectID = "WGF-v6-AQh";</note>
+      </trans-unit>
+      <trans-unit id="XME-yi-iaD.text" xml:space="preserve">
+        <source>22kW • 160V</source>
+        <target>22kW • 160V</target>
+        <note>Class = "UILabel"; text = "22kW • 160V"; ObjectID = "XME-yi-iaD";</note>
+      </trans-unit>
+      <trans-unit id="Y2h-hd-ZWJ.text" xml:space="preserve">
+        <source>AC (Three Phase)</source>
+        <target>AC (Three Phase)</target>
+        <note>Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "Y2h-hd-ZWJ";</note>
+      </trans-unit>
+      <trans-unit id="YSl-R4-HSC.text" xml:space="preserve">
+        <source>Save and Search</source>
+        <target>Salva e Cerca</target>
+        <note>Class = "UILabel"; text = "Save and Search"; ObjectID = "YSl-R4-HSC";</note>
+      </trans-unit>
+      <trans-unit id="ZCi-eo-baO.text" xml:space="preserve">
+        <source>Plug types</source>
+        <target>Tipi di plug</target>
+        <note>Class = "UILabel"; text = "Plug types"; ObjectID = "ZCi-eo-baO";</note>
+      </trans-unit>
+      <trans-unit id="Zs4-Lh-uh2.text" xml:space="preserve">
+        <source>Three Phase EU</source>
+        <target>Three Phase EU</target>
+        <note>Class = "UILabel"; text = "Three Phase EU"; ObjectID = "Zs4-Lh-uh2";</note>
+      </trans-unit>
+      <trans-unit id="bEP-hV-EOD.text" xml:space="preserve">
+        <source>Choose your Charge Types Levels</source>
+        <target>Scegli il livello di Ricarica</target>
+        <note>Class = "UILabel"; text = "Choose your Charge Types Levels"; ObjectID = "bEP-hV-EOD";</note>
+      </trans-unit>
+      <trans-unit id="bLa-Bu-uAO.text" xml:space="preserve">
+        <source>x2</source>
+        <target>x2</target>
+        <note>Class = "UILabel"; text = "x2"; ObjectID = "bLa-Bu-uAO";</note>
+      </trans-unit>
+      <trans-unit id="boM-dl-xuO.text" xml:space="preserve">
+        <source>Nema (All Types)</source>
+        <target>Nema (Tutti)</target>
+        <note>Class = "UILabel"; text = "Nema (All Types)"; ObjectID = "boM-dl-xuO";</note>
+      </trans-unit>
+      <trans-unit id="ded-kc-060.text" xml:space="preserve">
+        <source>Filters</source>
+        <target>Filtri</target>
+        <note>Class = "UILabel"; text = "Filters"; ObjectID = "ded-kc-060";</note>
+      </trans-unit>
+      <trans-unit id="ebY-zo-Th3.text" xml:space="preserve">
+        <source>Set your preferences to optimize the experience</source>
+        <target>Scegli le tue preferenze per ottimizzare l'esperienza</target>
+        <note>Class = "UILabel"; text = "Set your preferences to optimize the experience"; ObjectID = "ebY-zo-Th3";</note>
+      </trans-unit>
+      <trans-unit id="etT-82-YF4.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "etT-82-YF4";</note>
+      </trans-unit>
+      <trans-unit id="fk7-3I-Y3R.text" xml:space="preserve">
+        <source>Choose your Plugs</source>
+        <target>Scegli i Plugs</target>
+        <note>Class = "UILabel"; text = "Choose your Plugs"; ObjectID = "fk7-3I-Y3R";</note>
+      </trans-unit>
+      <trans-unit id="gBy-ji-LmJ.text" xml:space="preserve">
+        <source>240kW • 480V</source>
+        <target>240kW • 480V</target>
+        <note>Class = "UILabel"; text = "240kW • 480V"; ObjectID = "gBy-ji-LmJ";</note>
+      </trans-unit>
+      <trans-unit id="h2j-Qi-8hP.text" xml:space="preserve">
+        <source>15km • Via Amerigo Vespucci • San Giovanni</source>
+        <target>15km • Via Amerigo Vespucci • San Giovanni</target>
+        <note>Class = "UILabel"; text = "15km • Via Amerigo Vespucci • San Giovanni"; ObjectID = "h2j-Qi-8hP";</note>
+      </trans-unit>
+      <trans-unit id="irA-P4-dAe.text" xml:space="preserve">
+        <source>AC (Three Phase)</source>
+        <target>AC (Three Phase)</target>
+        <note>Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "irA-P4-dAe";</note>
+      </trans-unit>
+      <trans-unit id="jdh-UZ-Nm0.text" xml:space="preserve">
+        <source>22kW • 160V</source>
+        <target>22kW • 160V</target>
+        <note>Class = "UILabel"; text = "22kW • 160V"; ObjectID = "jdh-UZ-Nm0";</note>
+      </trans-unit>
+      <trans-unit id="lYL-sX-nlx.text" xml:space="preserve">
+        <source>Enel (Italy)</source>
+        <target>Enel (Italy)</target>
+        <note>Class = "UILabel"; text = "Enel (Italy)"; ObjectID = "lYL-sX-nlx";</note>
+      </trans-unit>
+      <trans-unit id="nDv-Xd-9DR.text" xml:space="preserve">
+        <source>80144 Naples</source>
+        <target>80144 Naples</target>
+        <note>Class = "UILabel"; text = "80144 Naples"; ObjectID = "nDv-Xd-9DR";</note>
+      </trans-unit>
+      <trans-unit id="ngI-Wl-H28.text" xml:space="preserve">
+        <source>Type 2</source>
+        <target>Tipo 2</target>
+        <note>Class = "UILabel"; text = "Type 2"; ObjectID = "ngI-Wl-H28";</note>
+      </trans-unit>
+      <trans-unit id="pLI-pi-6XA.text" xml:space="preserve">
+        <source>CCS</source>
+        <target>CCS</target>
+        <note>Class = "UILabel"; text = "CCS"; ObjectID = "pLI-pi-6XA";</note>
+      </trans-unit>
+      <trans-unit id="qTa-un-YuS.text" xml:space="preserve">
+        <source>Type 1</source>
+        <target>Tipo 1</target>
+        <note>Class = "UILabel"; text = "Type 1"; ObjectID = "qTa-un-YuS";</note>
+      </trans-unit>
+      <trans-unit id="rRq-uk-HlW.text" xml:space="preserve">
+        <source>x2</source>
+        <target>x2</target>
+        <note>Class = "UILabel"; text = "x2"; ObjectID = "rRq-uk-HlW";</note>
+      </trans-unit>
+      <trans-unit id="rkN-bd-Klw.text" xml:space="preserve">
+        <source>26mins • Public • Free</source>
+        <target>26mins • Public • Free</target>
+        <note>Class = "UILabel"; text = "26mins • Public • Free"; ObjectID = "rkN-bd-Klw";</note>
+      </trans-unit>
+      <trans-unit id="sJN-bJ-K8l.text" xml:space="preserve">
+        <source>Level 2</source>
+        <target>Livello 2</target>
+        <note>Class = "UILabel"; text = "Level 2"; ObjectID = "sJN-bJ-K8l";</note>
+      </trans-unit>
+      <trans-unit id="smv-gY-9pz.text" xml:space="preserve">
+        <source>x2</source>
+        <target>x2</target>
+        <note>Class = "UILabel"; text = "x2"; ObjectID = "smv-gY-9pz";</note>
+      </trans-unit>
+      <trans-unit id="tjv-Nq-3VO.text" xml:space="preserve">
+        <source>Level 1</source>
+        <target>Livello 1</target>
+        <note>Class = "UILabel"; text = "Level 1"; ObjectID = "tjv-Nq-3VO";</note>
+      </trans-unit>
+      <trans-unit id="tkN-s0-ozq.text" xml:space="preserve">
+        <source>Private charging stations</source>
+        <target>Stazioni Private</target>
+        <note>Class = "UILabel"; text = "Private charging stations"; ObjectID = "tkN-s0-ozq";</note>
+      </trans-unit>
+      <trans-unit id="tqV-4N-TKw.text" xml:space="preserve">
+        <source>AC (Three Phase)</source>
+        <target>AC (Three Phase)</target>
+        <note>Class = "UILabel"; text = "AC (Three Phase)"; ObjectID = "tqV-4N-TKw";</note>
+      </trans-unit>
+      <trans-unit id="wgG-zN-3ze.text" xml:space="preserve">
+        <source>22kW • 160V</source>
+        <target>22kW • 160V</target>
+        <note>Class = "UILabel"; text = "22kW • 160V"; ObjectID = "wgG-zN-3ze";</note>
+      </trans-unit>
+      <trans-unit id="yCt-E7-BEb.text" xml:space="preserve">
+        <source>Free charging station</source>
+        <target>Stazioni Gratuite</target>
+        <note>Class = "UILabel"; text = "Free charging station"; ObjectID = "yCt-E7-BEb";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Eonic/en.lproj/InfoPlist.strings" source-language="en" target-language="it" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Eonic</source>
+        <target>Eonic</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSLocationAlwaysAndWhenInUseUsageDescription" xml:space="preserve">
+        <source>We use position to show the nearest charger to you</source>
+        <target>Permetti all'app di accedere</target>
+        <note>Privacy - Location Always and When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationAlwaysUsageDescription" xml:space="preserve">
+        <source>We use position to show the nearest charger to you</source>
+        <target>Permetti all'app di accedere</target>
+        <note>Privacy - Location Always Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source>We use position to show the nearest charger to you</source>
+        <target>Permetti all'app di accedere</target>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Eonic/en.lproj/Localizable.strings" source-language="en" target-language="it" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="(hours)h (mins)min" xml:space="preserve">
+        <source>(hours)h (mins)min</source>
+        <note>Minuti</note>
+      </trans-unit>
+      <trans-unit id="(minutes)min" xml:space="preserve">
+        <source>(minutes)min</source>
+        <note>Minuti</note>
+      </trans-unit>
+      <trans-unit id="Closed" xml:space="preserve">
+        <source>Closed</source>
+        <target>Chiuso</target>
+        <note>Chiuso</note>
+      </trans-unit>
+      <trans-unit id="Closed • Private" xml:space="preserve">
+        <source>Closed • Private</source>
+        <target>Chiuso • Privato</target>
+        <note>Chiuso-privato</note>
+      </trans-unit>
+      <trans-unit id="Closed • Private Residence" xml:space="preserve">
+        <source>Closed • Private Residence</source>
+        <target>Chiuso • Residenza Privata</target>
+        <note>Abitazione-chiuso</note>
+      </trans-unit>
+      <trans-unit id="Closed • Public" xml:space="preserve">
+        <source>Closed • Public</source>
+        <target>Chiuso • Pubblico</target>
+        <note>Chiuso-pubblico</note>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <target>Fatto</target>
+        <note>Fatto</note>
+      </trans-unit>
+      <trans-unit id="Nearest to you" xml:space="preserve">
+        <source>Nearest to you</source>
+        <target>Più vicino</target>
+        <note>Compagnia sconosciuta</note>
+      </trans-unit>
+      <trans-unit id="Operational" xml:space="preserve">
+        <source>Operational</source>
+        <target>Aperto</target>
+        <note>Aperto</note>
+      </trans-unit>
+      <trans-unit id="Operational • Private" xml:space="preserve">
+        <source>Operational • Private</source>
+        <target>Aperto • Privato</target>
+        <note>Aperto-privato</note>
+      </trans-unit>
+      <trans-unit id="Operational • Private Residence" xml:space="preserve">
+        <source>Operational • Private Residence</source>
+        <target>Aperto • Residenza Privata</target>
+        <note>Abitazione-aperto</note>
+      </trans-unit>
+      <trans-unit id="Operational • Public" xml:space="preserve">
+        <source>Operational • Public</source>
+        <target>Aperto • Pubblico</target>
+        <note>Aperto-pubblico</note>
+      </trans-unit>
+      <trans-unit id="Phone not Found" xml:space="preserve">
+        <source>Phone not Found</source>
+        <target>Telefono non Trovato</target>
+        <note>Telefono non trovato</note>
+      </trans-unit>
+      <trans-unit id="Private Residence • " xml:space="preserve">
+        <source>Private Residence • </source>
+        <target>Residenza Privata • </target>
+        <note>Abitazione Privata •</note>
+      </trans-unit>
+      <trans-unit id="Private • " xml:space="preserve">
+        <source>Private • </source>
+        <target>Privato • </target>
+        <note>Privato •</note>
+      </trans-unit>
+      <trans-unit id="Public • " xml:space="preserve">
+        <source>Public • </source>
+        <target>Pubblico • </target>
+        <note>Pubblico •</note>
+      </trans-unit>
+      <trans-unit id="Sorry, this charge point doesn't have a phone number." xml:space="preserve">
+        <source>Sorry, this charge point doesn't have a phone number.</source>
+        <target>Questo punto di ricarica non ha un numero di telefono</target>
+        <note>Descrizione telefono non trovato</note>
+      </trans-unit>
+      <trans-unit id="Unknown Company" xml:space="preserve">
+        <source>Unknown Company</source>
+        <target>Compagnia sconosciuta</target>
+        <note>Compagnia sconosciuta</note>
+      </trans-unit>
+      <trans-unit id="Unknown Plug" xml:space="preserve">
+        <source>Unknown Plug</source>
+        <target>Plug Sconosciuto</target>
+        <note>Plug Sconosciuto</note>
+      </trans-unit>
+      <trans-unit id="Unknown Postal Code/CAP" xml:space="preserve">
+        <source>Unknown Postal Code/CAP</source>
+        <target>CAP Sconosciuto</target>
+        <note>Cap sconosciuto</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Search/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="it">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Search</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Search</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
